@@ -1,0 +1,150 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.highlight{
+    background-color: #ffb300;
+    text-align: center;
+    padding: 10px;
+    margin-right: 5px;
+    color: #4c4d52;
+    font-size: 19px;
+    font-weight: 400;
+    letter-spacing: -0.3px;
+    font-family: "Segoe UI";
+}
+
+.highlight a{
+   color: #5845b7; 
+   text-decoration: none;
+}
+
+.navbar{
+    background-color:#f7f7f7 ;
+    color: #878787;
+    padding: 20px 55px;
+}
+.navbar li{
+    display: inline-flex;
+}
+.li-0{
+  padding-left: 20px;
+}
+.li-1{
+   padding-left: 420px; 
+}
+.li-2{
+    padding-left: 25px; 
+ }
+ .main h1{
+    margin-top: 0px;
+    padding-left: 75px;
+    padding-top: 29px;
+ }
+ .main{
+    display: inline-flex;
+    padding-top: 200px;
+ }
+#form{
+    padding-left: 20px;
+    padding-top: 15px;
+ }
+ #utility li{
+    display: inline-flex;
+    padding-left: 20px;
+    margin-top: 35px;
+    list-style-type: none;
+ }
+ .li-00{
+   margin-left: 0px;
+}
+ .li-10{
+    margin-left: 0px;
+ }
+ .li-11{
+    margin-left: 0px;
+ }
+ .li-12{
+    margin-left: 10px;
+ } 
+
+ #productmenu li{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   display:inline flex;
+   margin-top: 70px;
+   font-size: 20px;
+   padding-left: 57px;
+   color: #323f65;
+ }
+
+
+
+ /*
+ #productmenu li{
+    display: inline-flex;
+    list-style-type: none;
+    margin-top: 65px;
+    font-size: 22px;
+*/
+   
+   .li-01{
+     padding-left:2px ;
+   }
+   .li-02{
+      padding-left: ;
+    }
+    .li-03{
+      padding-left: ;
+    }
+    .li-04{
+      margin-right: 10px;
+    }
+    .li-05{
+      padding-left: ;
+    }
+    .li-06{
+      padding-left: ;
+    }
+
+
+   #productmenu{
+      padding: 20px;
+   }
+
+ header{
+   
+   background-image:url(bestore-sample-header.PNG);
+   background-size: 1366px;
+   background-repeat: no-repeat;
+   min-height: 381px; 
+   /* width: 1904px; */
+   font-family: "Plus Jakarta Sans",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+ }
+
+ i{
+   padding-left: 10px;
+ }
+
+
+ .search_box{
+   border: 1px solid;
+   max-height: 38px;
+   border-radius: 5px;
+   margin-top: 29px;
+}
+
+.search_box form{
+   padding: 7px 5px 0px 5px;
+}
+
+.search_box form input{
+   border: 0;
+}
+
+.search_box form input:focus {
+   outline-color: #FFFFFF ;
+}
+
